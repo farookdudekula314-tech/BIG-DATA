@@ -1,0 +1,8 @@
+Website,In-Degree,Out-Degree,Degree Centrality,PageRank
+Google,4,3,1.167,0.2484
+YouTube,4,2,1.0,0.2237
+Wikipedia,1,2,0.5,0.0918
+Instagram,3,1,0.667,0.196
+Facebook,2,2,0.667,0.1971
+Amazon,0,2,0.333,0.0214
+Netflix,0,2,0.333,0.0214
